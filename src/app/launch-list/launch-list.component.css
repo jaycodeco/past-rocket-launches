@@ -1,0 +1,18 @@
+.container {
+  padding-top: 20px;
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: repeat(auto-fill, 350px);
+  justify-content: center;
+}
+
+.mat-card {
+  cursor: pointer;
+}
+
+
+.loader {
+  width: 90vw;
+  height: 90vh;
+  margin: 4vh auto;
+}
